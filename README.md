@@ -1,5 +1,7 @@
 # LLM-LINEBot-use-python-on-vercel
 
+forked from willismax/LLM-LINEBot-use-python-on-vercel
+
 本專案已經採用OpenAI ChatGPT-3.5-tubo模型，並且針對教育情境優化，詳細描述於[🤖 客製化你的AI教學助手-蘇格拉底引導教學法 (Customize Your AI Teaching Assistant - A Socratic Approach)](https://willismax.github.io/my-site/blog/Customize%20Your%20AI%20Teaching%20Assistant%20-%20A%20Socratic%20Approach)
 
 ## ChatGPT on Vercel (Pthon Flask ver.)
